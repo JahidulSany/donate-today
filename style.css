@@ -4,7 +4,7 @@
 }
 h1, h2, h3, h4, h5, h6, a {
     font-family: 'Inter', sans-serif;
-    /* font-family: 'Lobster', cursive;
+    /* 
     font-family: 'Manrope', sans-serif; 
     font-family: 'Roboto', sans-serif; */
 }
@@ -158,8 +158,62 @@ section.contribute-part-one {
 .text-margin{
     margin-left: 5%;
 }
-
-
 section.contribute-part-two {
     padding: 0px 200px 100px;
+}
+.get-update{
+    padding: 0px 0 100px;
+    text-align: center;
+}
+.update-text h2{
+    color: #121212;
+    margin-bottom: 35px;
+}
+.update-text p{
+    color: #121212;
+    margin-bottom: 35px;
+}
+.subscriptions{
+    position: relative;
+    margin: 0 auto;
+    width: 809px;
+    height: 200px;
+    background: #FFF4D6;
+}
+.input-mail {
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin: 70px auto;
+    margin-left: 104px;
+}
+.input-mail .link-button {
+    margin-left: 90px;
+}
+.input-mail input{
+    width: 250px;
+    padding: 10px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: -10px auto;
+    margin-left: 70px;
+    border-radius: 5px;
+}
+.footer-area{
+    background-color: #0B0D17;
+    padding: 50px 0;
+    text-align: center;
+}
+.footer-area h2{
+   margin-bottom: 50px;
+   font-family: 'Lobster', cursive;
+   font-size: 36px;
+   color: #FF5959;
+   margin-bottom: 20px;
+}
+.footer-area p{
+   color: #D9DBE1;
+   font-size: 14px;
+
 }
