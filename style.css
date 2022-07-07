@@ -2,14 +2,12 @@
     margin: 0;
     padding: 0
 }
-
 h1, h2, h3, h4, h5, h6, a {
     font-family: 'Inter', sans-serif;
     /* font-family: 'Lobster', cursive;
     font-family: 'Manrope', sans-serif; 
     font-family: 'Roboto', sans-serif; */
 }
-
 p {
     font-family: 'Poppins', sans-serif;
     color: #707070;
@@ -21,6 +19,7 @@ a{
     text-decoration: none;
     color: #fff;
 }
+
 
 
 /* -------------------------------------------------- */
@@ -135,4 +134,32 @@ input.input-amount {
 }
 .bg-color-three {
     background: #FFF4D6;
+}
+section.contribute-part-one {
+    padding: 100px 200px;
+}
+.contribute-content{
+    display: flex;
+}
+.contribute-instructions {
+    width: 100%;
+    margin-right: 5%;
+}
+.contribute-instructions h2 {
+    font-size: 45px;
+}
+.contribute-instructions p {
+    text-align: left;
+    margin: 35px 0;
+}
+.contribute-image img{
+    width: 100%;
+}
+.text-margin{
+    margin-left: 5%;
+}
+
+
+section.contribute-part-two {
+    padding: 0px 200px 100px;
 }
