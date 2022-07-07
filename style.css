@@ -100,3 +100,39 @@ input.input-amount {
     text-align: center;
     width: 740px;
 }
+.donate-plan{
+    padding: 100px 0;
+}
+.donate-plan-text{
+    margin-bottom: 50px;
+    text-align: center;
+}
+.donate-plan-text h2{
+    margin-bottom: 40px;
+}
+.donate-plan-text p{
+
+}
+.single-donate-plan {
+    padding: 60px 0;
+    display: inline-block;
+    width: 25%;
+    border-radius: 5px;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.single-donate-plan p{
+    text-align: left;
+}
+.single-donate-plan h3{
+    margin: 35px 0;
+}
+.bg-color-one {
+    background: rgba(79, 157, 166, 0.1);
+}
+.bg-color-two {
+    background: rgba(255, 89, 89, 0.1);
+}
+.bg-color-three {
+    background: #FFF4D6;
+}
